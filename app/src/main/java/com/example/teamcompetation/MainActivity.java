@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         scoreA=findViewById(R.id.scoreA);
+
         scoreB=findViewById(R.id.scoreB);
     }
 
